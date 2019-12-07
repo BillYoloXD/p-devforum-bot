@@ -182,5 +182,14 @@
 		"icon":"",
 		"investigation":false,
 		"invalid":false
-	}
+	},
+	{ 
+                "name":"Greece",
+                "invite":"FN9yCeJ",
+                "owner":"BillYoloXD",
+                "icon":"https://cdn.discordapp.com/attachments/652875703976460290/652878138103037953/GreekIcon.png",
+                "investigation":false,
+                "invalid":false
+    }
+
 ]
